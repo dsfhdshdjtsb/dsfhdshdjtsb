@@ -1,4 +1,5 @@
 # Hi, I'm Nick Suh
+I am a first-year student at Georgia Tech.
 
 ### My Projects
 - ⚔ [Combat Enchantments](https://github.com/dsfhdshdjtsb/enchantments)
