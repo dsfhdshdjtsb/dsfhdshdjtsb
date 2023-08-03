@@ -1,9 +1,11 @@
-### Hi, I'm Nick Suh
+# Hi, I'm Nick Suh
 
-# My Projects
+### My Projects
 - ⚔ [Combat Enchantments](https://github.com/dsfhdshdjtsb/enchantments)
 - 🎽 [Armor Abilities](https://github.com/dsfhdshdjtsb/ArmorAbilities)
+- ⌚ [Metruhnome](https://github.com/dsfhdshdjtsb/synced-metronome)
 - 🚗 [Road Code](https://github.com/dsfhdshdjtsb/roadcode)
+- 📃 [Portfolio](https://github.com/dsfhdshdjtsb/portfolio)
 - 🌟 [Astraeus View](https://github.com/kYpranite/astraeus-view)
 <!--
 **dsfhdshdjtsb/dsfhdshdjtsb** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
