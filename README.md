@@ -1,10 +1,10 @@
 ### Hi, I'm Nick Suh
 
 # My Projects
-- ⚔ (Combat Enchantments) [https://github.com/dsfhdshdjtsb/enchantments]
-- 🎽 (Armor Abilities) ([https://github.com/dsfhdshdjtsb/ArmorAbilities]
-- 🚗 (Road Code) ([https://github.com/dsfhdshdjtsb/roadcod]
-- 🌟 (Astraeus View) [https://github.com/kYpranite/astraeus-vie]
+- ⚔ [Combat Enchantments](https://github.com/dsfhdshdjtsb/enchantments)
+- 🎽 [Armor Abilities](https://github.com/dsfhdshdjtsb/ArmorAbilities)
+- 🚗 [Road Code](https://github.com/dsfhdshdjtsb/roadcode)
+- 🌟 [Astraeus View](https://github.com/kYpranite/astraeus-view)
 <!--
 **dsfhdshdjtsb/dsfhdshdjtsb** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
