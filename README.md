@@ -7,6 +7,7 @@ I am a first-year student at Georgia Tech.
 - ⌚ [Metruhnome](https://github.com/dsfhdshdjtsb/synced-metronome)
 - 🚗 [Road Code](https://github.com/dsfhdshdjtsb/roadcode)
 - 📃 [Portfolio](https://github.com/dsfhdshdjtsb/portfolio)
+- 😀 [Therapal](https://github.com/kYpranite/Therapal)
 - 🌟 [Astraeus View](https://github.com/kYpranite/astraeus-view)
 <!--
 **dsfhdshdjtsb/dsfhdshdjtsb** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
