@@ -8,7 +8,7 @@ I am a first-year student at Georgia Tech.
 - 🚗 [Road Code](https://github.com/dsfhdshdjtsb/roadcode)
 - 📃 [Portfolio](https://github.com/dsfhdshdjtsb/portfolio)
 - 😀 [Therapal](https://github.com/kYpranite/Therapal)
-- 🌟 [Astraeus View](https://github.com/kYpranite/astraeus-view)
+- 🎵 [NoteDrop](https://github.com/ambareesh1510/horizons)
 <!--
 **dsfhdshdjtsb/dsfhdshdjtsb** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
